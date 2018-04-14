@@ -21,7 +21,7 @@ How to run:
 
 Step-1: clone the application from github
 
-git clone https://github.com/rahiakela/node-rest-api-jwt-security-application
+git clone https://github.com/tecknocracy/node-rest-api-jwt-security-application
 
 Step-2: install the all dependency
 
